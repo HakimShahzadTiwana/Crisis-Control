@@ -1,0 +1,71 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+*.iml
+
+# IntelliJ IDEA/Android Studio
+.idea/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+
+# Keystore files
+*.jks
+
+# Android Studio captures
+captures/
+
+# External native build folder generated in an Android build
+.externalNativeBuild/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Miscellaneous files
+*.orig
+*.log
+*.pyc
+*.swp
+*.swo
+*.zip
+
+# Project build outputs
+output/
+
+# Crashlytics / Fabric
+crashlytics-build.properties
+fabric.properties
+
+# NDK
+obj/
+
+# ProGuard
+proguard/
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
+
+# Firebase
+google-services.json
+
+# Dependency directories
+node_modules/
